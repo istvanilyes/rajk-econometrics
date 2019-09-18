@@ -1,2 +1,3 @@
 # rajk-econometrics
-Econometrics Course Data and slides (Hungarian)
+Econometrics Course at Rajk College for Advanced Studies
+Data and hungarian slides
